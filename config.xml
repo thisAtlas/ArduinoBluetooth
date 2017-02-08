@@ -5,9 +5,9 @@
    
 
    
-	<name>Test</name>
+	<name>BT Test</name>
     <description>
-        Test af at fremstille en app med html og javascript
+        Test af BlueTooth
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team , anvendt af Lone Osterlund
